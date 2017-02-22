@@ -1,0 +1,13 @@
+Navigated to Github.com
+Created new repo
+cd DojoAssignments
+git init
+git add .
+git commit .
+git remote add origin https://github.com/marcomolina11/DojoAssignments.git
+git push -u origin master
+touch readme.md
+git status
+git add .
+git commit -m "added readme"
+git push

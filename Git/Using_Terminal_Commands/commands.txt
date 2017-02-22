@@ -1,0 +1,18 @@
+Basic Terminal Commands Assignment
+
+cd Desktop
+mkdir test
+cd test
+touch index.html styles.css commands.txt
+cp index.html index_2.html
+rm -i styles.css
+cd ..
+mkdir destination
+mv index_2.html ../destination/index_2.html
+cd destination
+ls
+cd ..
+cd test
+ls
+cd ..
+rm -rf destination
